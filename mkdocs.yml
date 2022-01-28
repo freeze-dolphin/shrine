@@ -1,1 +1,13 @@
 site_name: Shrine
+
+repo_url: https://github.com/freeze-dolphin/shrine
+remote_branch: gh-pages
+
+extra:
+  homepage: https://github.com/freeze-dolphin
+
+theme:
+  name: bootstrap386
+
+plugins:
+  - search
